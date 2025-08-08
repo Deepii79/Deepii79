@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Deepika Swami 👋
 
-<!--
-**Deepii79/Deepii79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**B.Tech 2nd Year Student | Electronics & Communication Engineering | Tech Learner**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a curious and driven **B.Tech 2nd Year** student at **University Institute of Engineering and Technology (UIET)**, specializing in **Electronics & Communication Engineering (ECE)**.  
+Currently, I'm exploring the exciting world of **coding** and **building projects** to strengthen my problem-solving and development skills.  
+As an active member of **SAE India (UIET Club)**, I enjoy collaborating with peers on innovative ideas and learning from real-world challenges.
+
+---
+
+## 🛠 Tech Stack & Skills
+| Technology | Area |
+|------------|------|
+| C / C++    | Programming Fundamentals |
+| Python     | Basics of Programming |
+| HTML / CSS | Frontend Development |
+| JavaScript | Learning Interactivity |
+| Git / GitHub | Version Control |
+| Arduino / IoT | Embedded Systems Projects |
+
+---
+
+## 🎯 Goals
+- Build impactful projects that solve real-life problems  
+- Learn **Web Development** & **Embedded Systems**  
+- Participate in **hackathons** & **technical competitions**  
+
+---
+
+📫 **Connect with me**  
+- **GitHub:** [Deepii79](https://github.com/Deepii79)
