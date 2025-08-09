@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I'm a curious and driven **B.Tech 2nd Year** student at **University Institute of Engineering and Technology (UIET)**, specializing in **Electronics & Communication Engineering (ECE)**.  
+I'm a curious and driven **B.Tech 2nd Year** student at **University Institute of Engineering and Technology (UIET)**,KURUKSHETRA, specializing in **Electronics & Communication Engineering (ECE)**.  
 Currently, I'm exploring the exciting world of **coding** and **building projects** to strengthen my problem-solving and development skills.  
 As an active member of **SAE India (UIET Club)**, I enjoy collaborating with peers on innovative ideas and learning from real-world challenges.
 
